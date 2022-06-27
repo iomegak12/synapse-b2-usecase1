@@ -17,7 +17,7 @@
 				"spark.dynamicAllocation.enabled": "false",
 				"spark.dynamicAllocation.minExecutors": "2",
 				"spark.dynamicAllocation.maxExecutors": "2",
-				"spark.autotune.trackingId": "25b1793a-5db5-4ee6-b525-821a4e87bd0c"
+				"spark.autotune.trackingId": "01fe5a6e-1e6b-492f-bd94-4dc78a6c0bb3"
 			}
 		},
 		"metadata": {
@@ -53,7 +53,8 @@
 				"metadata": {
 					"microsoft": {
 						"language": "python"
-					}
+					},
+					"collapsed": false
 				},
 				"source": [
 					"%%pyspark\r\n",
